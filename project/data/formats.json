@@ -1,0 +1,5 @@
+{
+  "format_date_time": "%B %#d, %Y %#I:%M %p",
+  "format_date": "%m/%d/%Y",
+  "file_info": "%Y/%m/%d :: %H:%M:%S"
+}

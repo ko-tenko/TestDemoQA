@@ -1,0 +1,5 @@
+{
+  "scroll_script": "window.scrollTo(0, document.body.scrollHeight);",
+  "footer_remove": "document.getElementsByTagName('footer')[0].remove();",
+  "iframe_remove": "document.getElementsByTagName('iframe')[0].remove();"
+}

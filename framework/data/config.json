@@ -1,0 +1,13 @@
+{ "browser": "chrome",
+  "options": [
+    "--incognito",
+    "--start-maximized",
+    "--disable-infobars",
+    "--disable-extensions"],
+  "url": "https://demoqa.com/",
+  "timeout": 5,
+  "timeout_alert": 0.5,
+  "path": "../../project/temp",
+  "dl_directory": "download.default_directory",
+  "timeout_dl": 20
+}

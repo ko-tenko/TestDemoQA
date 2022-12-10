@@ -1,0 +1,315 @@
+2022-09-12 20:09:12,053 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:12,209 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:13,155 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:13,284 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:13,413 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:13,559 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:13,689 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:13,816 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:13,974 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:14,218 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:14,333 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:14,444 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:14,555 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:14,667 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:14,816 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:14,924 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:15,062 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:15,173 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:15,285 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:15,396 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:15,561 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:15,684 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:15,791 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:15,929 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:16,071 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:16,190 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:16,298 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:16,436 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:16,554 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:16,669 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:16,948 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:09:17,058 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:09:17,291 - driver - Creating the driver's object
+2022-09-12 20:09:17,376 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:17,435 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:40,027 - open_page - Opening start url
+2022-09-12 20:09:40,240 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:50,866 - is_page_opened - Opening the Home Page
+2022-09-12 20:09:50,934 - find_the_elements - Find elements Home Page
+2022-09-12 20:09:51,039 - scroll_to_element - Scrolling to the element
+2022-09-12 20:09:51,202 - click - Clicking on the Elements menu
+2022-09-12 20:09:51,290 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:52,341 - is_page_opened - Opening the Elements Page
+2022-09-12 20:09:52,441 - find_the_elements - Find elements Elements Page
+2022-09-12 20:09:54,055 - scroll_to_element - Scrolling to the element
+2022-09-12 20:09:54,508 - click - Clicking on the Web tables menu
+2022-09-12 20:09:54,618 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:55,249 - is_page_opened - Opening the Web Tables Page
+2022-09-12 20:09:55,344 - find_the_elements - Find elements Web Tables Page
+2022-09-12 20:09:55,489 - click - Clicking on the Add
+2022-09-12 20:09:55,608 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:56,268 - get_user_data - Getting user data for registration from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\user_data.json
+2022-09-12 20:09:56,413 - create_user - Creating user profile for registration
+2022-09-12 20:09:56,592 - send_key - Sending data to field First Name
+2022-09-12 20:09:56,685 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:57,100 - send_key - Sending data to field Last Name
+2022-09-12 20:09:57,157 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:57,570 - send_key - Sending data to field Email
+2022-09-12 20:09:57,632 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:58,266 - send_key - Sending data to field Age
+2022-09-12 20:09:58,318 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:58,726 - send_key - Sending data to field Salary
+2022-09-12 20:09:58,814 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:59,251 - send_key - Sending data to field Department
+2022-09-12 20:09:59,315 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:09:59,729 - get_user_data - Getting user data for registration from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\user_data.json
+2022-09-12 20:09:59,780 - click - Clicking on the Submit
+2022-09-12 20:09:59,835 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:00,359 - get_text - Getting text from Table text
+2022-09-12 20:10:00,455 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:01,088 - user_data_in_table - Verification of successful registration
+2022-09-12 20:10:01,141 - find_the_elements - Find elements Delete buttons
+2022-09-12 20:10:01,237 - scroll_to_element - Scrolling to the element
+2022-09-12 20:10:01,322 - click - Clicking on the Delete record
+2022-09-12 20:10:01,374 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:01,752 - get_text - Getting text from Table text
+2022-09-12 20:10:01,846 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:02,281 - find_the_elements - Find elements Delete buttons
+2022-09-12 20:10:02,354 - user_data_in_table - Verification of successful registration
+2022-09-12 20:10:02,415 - driver - Quitting the driver's object
+2022-09-12 20:10:12,728 - driver - Creating the driver's object
+2022-09-12 20:10:12,818 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:12,890 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:20,642 - open_page - Opening start url
+2022-09-12 20:10:20,863 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:28,241 - is_page_opened - Opening the Home Page
+2022-09-12 20:10:28,405 - find_the_elements - Find elements Home Page
+2022-09-12 20:10:28,578 - scroll_to_element - Scrolling to the element
+2022-09-12 20:10:28,664 - click - Clicking on the Elements menu
+2022-09-12 20:10:28,725 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:29,450 - is_page_opened - Opening the Elements Page
+2022-09-12 20:10:29,516 - find_the_elements - Find elements Elements Page
+2022-09-12 20:10:29,773 - scroll_to_element - Scrolling to the element
+2022-09-12 20:10:31,242 - click - Clicking on the Web tables menu
+2022-09-12 20:10:31,314 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:31,945 - is_page_opened - Opening the Web Tables Page
+2022-09-12 20:10:32,074 - find_the_elements - Find elements Web Tables Page
+2022-09-12 20:10:32,181 - click - Clicking on the Add
+2022-09-12 20:10:32,236 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:32,747 - get_user_data - Getting user data for registration from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\user_data.json
+2022-09-12 20:10:32,868 - create_user - Creating user profile for registration
+2022-09-12 20:10:32,984 - send_key - Sending data to field First Name
+2022-09-12 20:10:33,055 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:33,582 - send_key - Sending data to field Last Name
+2022-09-12 20:10:33,634 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:34,159 - send_key - Sending data to field Email
+2022-09-12 20:10:34,213 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:34,832 - send_key - Sending data to field Age
+2022-09-12 20:10:34,886 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:35,275 - send_key - Sending data to field Salary
+2022-09-12 20:10:35,337 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:35,742 - send_key - Sending data to field Department
+2022-09-12 20:10:35,796 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:36,203 - get_user_data - Getting user data for registration from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\user_data.json
+2022-09-12 20:10:36,255 - click - Clicking on the Submit
+2022-09-12 20:10:36,306 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:36,721 - get_text - Getting text from Table text
+2022-09-12 20:10:36,842 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:37,398 - user_data_in_table - Verification of successful registration
+2022-09-12 20:10:37,445 - find_the_elements - Find elements Delete buttons
+2022-09-12 20:10:37,539 - scroll_to_element - Scrolling to the element
+2022-09-12 20:10:37,618 - click - Clicking on the Delete record
+2022-09-12 20:10:37,675 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:38,059 - get_text - Getting text from Table text
+2022-09-12 20:10:38,147 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:10:38,570 - find_the_elements - Find elements Delete buttons
+2022-09-12 20:10:38,640 - user_data_in_table - Verification of successful registration
+2022-09-12 20:10:38,691 - driver - Quitting the driver's object
+2022-09-12 20:41:34,860 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:41:35,007 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:41:35,485 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:35,607 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:35,810 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:35,922 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:36,038 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:36,166 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:36,288 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:36,446 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:36,567 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:36,686 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:36,800 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:36,915 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:37,042 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:37,153 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:37,276 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:37,398 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:37,507 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:37,614 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:37,738 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:37,849 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:37,964 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:38,088 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:38,217 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:38,327 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:38,438 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:38,556 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:38,667 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:38,778 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:38,931 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 20:41:39,055 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 20:41:39,154 - driver - Creating the driver's object
+2022-09-12 20:41:39,231 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:41:39,294 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:41:46,799 - open_page - Opening start url
+2022-09-12 20:41:46,869 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:41:57,200 - is_page_opened - Opening the Home Page
+2022-09-12 20:41:57,275 - find_the_elements - Find elements Home Page
+2022-09-12 20:41:57,379 - is_page_opened - Home Page page is opened
+2022-09-12 20:41:57,440 - scroll_to_element - Scrolling to the element
+2022-09-12 20:41:57,534 - click - Clicking on the Alert menu
+2022-09-12 20:41:57,595 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:41:58,263 - is_page_opened - Opening the Alerts Page
+2022-09-12 20:41:58,346 - find_the_elements - Find elements Alerts Page
+2022-09-12 20:41:58,457 - is_page_opened - Alerts Page page is opened
+2022-09-12 20:41:58,583 - scroll_to_element - Scrolling to the element
+2022-09-12 20:42:00,132 - click - Clicking on the Browser windows
+2022-09-12 20:42:00,216 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:42:00,746 - is_page_opened - Opening the Browser Windows Page
+2022-09-12 20:42:00,916 - find_the_elements - Find elements Browser Windows Page
+2022-09-12 20:42:01,142 - is_page_opened - Browser Windows Page page is opened
+2022-09-12 20:42:01,199 - handle_current_window - Handling current window
+2022-09-12 20:42:01,267 - click - Clicking on the New tab
+2022-09-12 20:42:01,377 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:42:01,971 - switch_to_new_window - Switching to new window
+2022-09-12 20:42:02,040 - get_window_handles - Getting handles for window
+2022-09-12 20:42:02,125 - is_page_opened - Opening the Sample Page
+2022-09-12 20:42:02,177 - find_the_elements - Find elements Sample Page
+2022-09-12 20:42:02,288 - is_page_opened - Sample Page page is opened
+2022-09-12 20:42:02,342 - get_current_url - Getting current url
+2022-09-12 20:42:02,416 - get_checks - Getting data for checks from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\checks.json
+2022-09-12 20:42:02,475 - close_tab - Closing tab
+2022-09-12 20:42:02,846 - switch_to_original - Switching to original window window
+2022-09-12 20:42:02,929 - is_page_opened - Opening the Browser Windows Page
+2022-09-12 20:42:02,986 - find_the_elements - Find elements Browser Windows Page
+2022-09-12 20:42:03,068 - is_page_opened - Browser Windows Page page is opened
+2022-09-12 20:42:03,124 - scroll_to_element - Scrolling to the element
+2022-09-12 20:42:03,219 - click - Clicking on the Elements menu
+2022-09-12 20:42:03,279 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:42:03,721 - scroll_to_element - Scrolling to the element
+2022-09-12 20:42:03,857 - click - Clicking on the Links submenu
+2022-09-12 20:42:03,960 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:42:04,458 - switch_to_new_window - Switching to new window
+2022-09-12 20:42:04,642 - get_window_handles - Getting handles for window
+2022-09-12 20:42:04,742 - handle_current_window - Handling current window
+2022-09-12 20:42:04,809 - is_page_opened - Opening the Links Page
+2022-09-12 20:42:04,864 - find_the_elements - Find elements Links Page
+2022-09-12 20:42:04,953 - is_page_opened - Links Page page is opened
+2022-09-12 20:42:05,003 - click - Clicking on the Home page
+2022-09-12 20:42:05,059 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 20:42:05,828 - switch_to_new_window - Switching to new window
+2022-09-12 20:42:05,895 - get_window_handles - Getting handles for window
+2022-09-12 20:42:05,980 - is_page_opened - Opening the Home Page
+2022-09-12 20:42:06,099 - find_the_elements - Find elements Home Page
+2022-09-12 20:42:09,553 - is_page_opened - Home Page page is opened
+2022-09-12 20:42:09,611 - switch_to_original - Switching to original window window
+2022-09-12 20:42:09,844 - is_page_opened - Opening the Links Page
+2022-09-12 20:42:09,910 - find_the_elements - Find elements Links Page
+2022-09-12 20:42:09,992 - is_page_opened - Links Page page is opened
+2022-09-12 20:42:10,062 - driver - Quitting the driver's object
+2022-09-12 21:06:00,911 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:01,065 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:01,833 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:01,950 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:02,070 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:02,182 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:02,291 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:02,402 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:02,529 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:02,776 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:02,892 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:03,009 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:03,126 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:03,242 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:03,370 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:03,483 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:03,611 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:03,777 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:03,917 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:04,069 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:04,224 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:04,373 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:04,492 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:04,621 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:04,765 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:04,898 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:05,041 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:05,220 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:05,367 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:05,502 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:05,792 - get_steps - Getting data for step from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\steps.json
+2022-09-12 21:06:05,918 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:06,111 - driver - Creating the driver's object
+2022-09-12 21:06:06,179 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:06,266 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:17,505 - open_page - Opening start url
+2022-09-12 21:06:17,746 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:27,027 - is_page_opened - Opening the Home Page
+2022-09-12 21:06:27,158 - find_the_elements - Find elements Home Page
+2022-09-12 21:06:28,337 - is_page_opened - Home Page page is opened
+2022-09-12 21:06:28,401 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:28,459 - scroll_to_element - Scrolling to the element
+2022-09-12 21:06:28,544 - click - Clicking on the Alert menu
+2022-09-12 21:06:28,613 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:29,532 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:29,603 - scroll_to_element - Scrolling to the element
+2022-09-12 21:06:29,696 - click - Clicking on the Alerts menu
+2022-09-12 21:06:29,802 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:31,916 - click - Clicking on the Alert
+2022-09-12 21:06:32,073 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:32,526 - alert_text - Getting text from Alert
+2022-09-12 21:06:32,645 - alert_is_present - Checking for Alert presence
+2022-09-12 21:06:32,770 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:32,858 - get_checks - Getting data for checks from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\checks.json
+2022-09-12 21:06:32,920 - accept_alert - Accepting Alert
+2022-09-12 21:06:32,992 - alert_is_present - Checking for Alert presence
+2022-09-12 21:06:33,068 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:33,224 - alert_is_not_present - Checking that Alert is not present
+2022-09-12 21:06:33,296 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:33,865 - wait_alert_is_not_present - Alert closed correctly
+2022-09-12 21:06:33,921 - click - Clicking on the Confirm box
+2022-09-12 21:06:33,974 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:34,306 - alert_text - Getting text from Alert
+2022-09-12 21:06:34,371 - alert_is_present - Checking for Alert presence
+2022-09-12 21:06:34,441 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:34,502 - get_checks - Getting data for checks from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\checks.json
+2022-09-12 21:06:34,552 - accept_alert - Accepting Alert
+2022-09-12 21:06:34,604 - alert_is_present - Checking for Alert presence
+2022-09-12 21:06:34,661 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:34,786 - alert_is_not_present - Checking that Alert is not present
+2022-09-12 21:06:34,929 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:35,490 - wait_alert_is_not_present - Alert closed correctly
+2022-09-12 21:06:35,541 - get_text - Getting text from Confirm box Text
+2022-09-12 21:06:35,594 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:35,767 - get_checks - Getting data for checks from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\checks.json
+2022-09-12 21:06:35,821 - get_script - Getting script from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\scripts.json
+2022-09-12 21:06:35,872 - scroll_to_element - Scrolling to the element
+2022-09-12 21:06:35,955 - click - Clicking on the Prompt
+2022-09-12 21:06:36,006 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:36,349 - alert_text - Getting text from Alert
+2022-09-12 21:06:36,416 - alert_is_present - Checking for Alert presence
+2022-09-12 21:06:36,487 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:36,553 - get_checks - Getting data for checks from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\project\data\checks.json
+2022-09-12 21:06:36,614 - generate_text - Generating random text
+2022-09-12 21:06:36,675 - send_data - Sending data Alert
+2022-09-12 21:06:36,724 - alert_is_present - Checking for Alert presence
+2022-09-12 21:06:36,783 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:36,851 - accept_alert - Accepting Alert
+2022-09-12 21:06:36,902 - alert_is_present - Checking for Alert presence
+2022-09-12 21:06:36,956 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:37,069 - alert_is_not_present - Checking that Alert is not present
+2022-09-12 21:06:37,200 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:37,772 - wait_alert_is_not_present - Alert closed correctly
+2022-09-12 21:06:37,822 - get_text - Getting text from Prompt
+2022-09-12 21:06:37,877 - get_config - Getting data from C:\Users\Anton\git\a1qa-tasks\a.kondratenko\task3\framework\data\config.json
+2022-09-12 21:06:38,055 - driver - Quitting the driver's object
